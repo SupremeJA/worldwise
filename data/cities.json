@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "7f71",
+      "cityName": "Toronto",
+      "country": "CA",
+      "emoji": "🇨🇦",
+      "date": "2025-10-08T12:16:30.776Z",
+      "notes": "Great food",
+      "position": {
+        "lat": "43.66374810379686",
+        "lng": "-79.38925618694411"
+      }
+    },
+    {
+      "id": "058b",
+      "cityName": "Township of Moseley Hall",
+      "country": "US",
+      "emoji": "🇺🇸",
+      "date": "2025-10-08T12:43:38.276Z",
+      "notes": "terrible experience\n",
+      "position": {
+        "lat": "35.32579946445049",
+        "lng": "-77.78175539769231"
+      }
+    },
+    {
+      "id": "6d88",
+      "cityName": "La Urbana",
+      "country": "VE",
+      "emoji": "🇻🇪",
+      "date": "2025-10-16T12:58:13.000Z",
+      "notes": "I love this place",
+      "position": {
+        "lat": "7.137041185687111",
+        "lng": "-66.87370146336029"
+      }
+    },
+    {
+      "id": "9f63",
+      "cityName": "La Urbana",
+      "country": "VE",
+      "emoji": "🇻🇪",
+      "date": "2025-10-08T13:01:13.655Z",
+      "notes": "meh",
+      "position": {
+        "lat": "7.16662431137607",
+        "lng": "-66.92355270995057"
+      }
+    },
+    {
+      "id": "370b",
+      "cityName": "Ibadan",
+      "country": "NG",
+      "emoji": "🇳🇬",
+      "date": "2025-10-08T13:21:17.293Z",
+      "notes": "my home",
+      "position": {
+        "lat": "7.404663472524921",
+        "lng": "3.926593793131326"
+      }
+    },
+    {
+      "id": "8061",
+      "cityName": "Egor",
+      "country": "NG",
+      "emoji": "🇳🇬",
+      "date": "2025-10-08T13:27:06.416Z",
+      "notes": "Egor",
+      "position": {
+        "lat": "6.3988769359997555",
+        "lng": "5.5931107172271775"
+      }
+    },
+    {
+      "id": "7a71",
+      "cityName": "Eyumodjock",
+      "country": "CM",
+      "emoji": "🇨🇲",
+      "date": "2025-10-08T13:57:42.305Z",
+      "notes": "elyaqub",
+      "position": {
+        "lat": "5.472403334496215",
+        "lng": "8.975071406902716"
+      }
+    }
+  ]
+}
