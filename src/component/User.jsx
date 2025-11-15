@@ -10,15 +10,6 @@ function User() {
     logout();
   }
 
-  // const navigate = useNavigate();
-
-  // useEffect(
-  //   function () {
-  //     if (!isAuthenticated) navigate("/");
-  //   },
-  //   [isAuthenticated, navigate]
-  // );
-
   return (
     <div className={styles.user}>
       <img src={user.avatar} alt={user.name} />
